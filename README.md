@@ -1,2 +1,2 @@
 # Paiement
-projet laravel pour pouvoir effectué un test de paiement avec cinetpay
+projet laravel pour pouvoir effectuer un test de paiement avec cinetpay
